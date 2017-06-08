@@ -1,15 +1,19 @@
 {
-  "name": "npm_project",
-  "version": "1.0.2",
-  "description": "",
+  "name": "myproject",
+  "version": "1.0.5",
+  "description": "This file was created for how-to-npm unit 07.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
   "author": "",
   "license": "ISC",
-  "repository": "https://github.com/pereiradaniel/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pereiradaniel/"
+  },
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {}
 }
