@@ -5,7 +5,7 @@
 ### CORE
 - javascripting x
 - git-it x
-- scope chains & closures
+- scope chains & closures x
 - elementary electron
 - learnyounode x
 - how to npm x
