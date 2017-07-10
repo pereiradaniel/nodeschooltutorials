@@ -5,11 +5,12 @@
 ### CORE
 - javascripting x
 - git-it x
-- scope chains & closures
+- scope chains & closures x
 - elementary electron
 - learnyounode x
 - how to npm x
-- stream-adventure
+- stream-adventure o
+    - _*There is a bug in the last exercise.*_
 - how to markdown x
 
 ### ELECTIVES
@@ -45,7 +46,8 @@
 - learnyoucouchdb
 - learnuv
 - learn generators
-- learnyoureact x
+- learnyoureact o
+    - _*There is a bug in the last exercise*_
 - perfschool
 - web audio school
 - torrential
