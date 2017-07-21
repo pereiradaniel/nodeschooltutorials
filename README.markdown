@@ -3,10 +3,12 @@
 ## Workshoppers list
 
 ### CORE
+
+_*Fix the bugs in order to complete!*_
 - javascripting x
 - git-it x
 - scope chains & closures x
-- elementary electron
+- elementary electron x
 - learnyounode x
 - how to npm x
 - stream-adventure o
@@ -14,7 +16,7 @@
 - how to markdown x
 
 ### ELECTIVES
-- functional javascript
+- functional javascript <-
 - level me up scotty
 - expressworks
 - make me hapi
@@ -26,18 +28,18 @@
 - webgl workshop
 - ESNext generation
 - test anything
-- tower of babel
+- tower of babel <-
 - learnyoumongo
 - regexp adventure
 - learn sass
 - pattern lab workshop
-- learnyoubash
-- currying in javascript
+- learnyoubash <-
+- currying in javascript <-
 - bacon love
 - innersourceadventure
 - shader school
 - bytewiser
-- bug clinic
+- bug clinic <-
 - browserify adventure
 - intro to webgl
 - count to 6
@@ -49,5 +51,5 @@
 - learnyoureact o
     - _*There is a bug in the last exercise*_
 - perfschool
-- web audio school
+- web audio school <-
 - torrential
