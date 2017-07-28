@@ -16,7 +16,9 @@ _*Fix the bugs in order to complete!*_
 - how to markdown x
 
 ### ELECTIVES
-- functional javascript <-
+---
+- *functional javascript* <- IN PROGRESS
+---
 - level me up scotty
 - expressworks
 - make me hapi
