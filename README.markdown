@@ -17,8 +17,7 @@ _*Fix the bugs in order to complete!*_
 
 ### ELECTIVES
 ---
-- *functional javascript* <- IN PROGRESS
----
+- *functional javascript* x
 - level me up scotty
 - expressworks
 - make me hapi
@@ -55,3 +54,6 @@ _*Fix the bugs in order to complete!*_
 - perfschool
 - web audio school <-
 - torrential
+---
+
+_*Daniel Pereira 2017*_
