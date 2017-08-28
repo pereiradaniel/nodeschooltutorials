@@ -11,13 +11,12 @@ _*Fix the bugs in order to complete!*_
 - elementary electron x
 - learnyounode x
 - how to npm x
-- stream-adventure o
-    - _*There is a bug in the last exercise.*_
+- *stream-adventure* o
 - how to markdown x
 
 ### ELECTIVES
 ---
-- *functional javascript* x
+- *functional javascript* o
 - level me up scotty
 - expressworks
 - make me hapi
@@ -34,7 +33,7 @@ _*Fix the bugs in order to complete!*_
 - regexp adventure
 - learn sass
 - pattern lab workshop
-- learnyoubash <-
+- learnyoubash <- *CURRENT*
 - currying in javascript <-
 - bacon love
 - innersourceadventure
@@ -49,8 +48,7 @@ _*Fix the bugs in order to complete!*_
 - learnyoucouchdb
 - learnuv
 - learn generators
-- learnyoureact o
-    - _*There is a bug in the last exercise*_
+- *learnyoureact* o
 - perfschool
 - web audio school <-
 - torrential
