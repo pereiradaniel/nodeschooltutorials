@@ -54,4 +54,5 @@ _*Fix the bugs in order to complete!*_
 - torrential
 ---
 
+[@pereirawebdev](https://twitter.com/pereirawebdev)
 _*Daniel Pereira 2017*_
