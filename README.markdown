@@ -1,4 +1,5 @@
 # Nodeschool tutorial solutions.
+---
 
 ## Workshoppers list
 
@@ -13,6 +14,8 @@ _*Fix the bugs in order to complete!*_
 - how to npm x
 - *stream-adventure* o
 - how to markdown x
+---
+
 
 ### ELECTIVES
 ---
@@ -54,5 +57,7 @@ _*Fix the bugs in order to complete!*_
 - torrential
 ---
 
+
 [@pereirawebdev](https://twitter.com/pereirawebdev)
+
 _*Daniel Pereira 2017*_
