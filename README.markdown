@@ -32,9 +32,9 @@ _*Fix the bugs in order to complete!*_
 - ESNext generation
 - test anything
 - tower of babel <-
-- learnyoumongo
-- regexp adventure
-- learn sass
+- learnyoumongo <-
+- regexp adventure <-
+- learn sass <-
 - pattern lab workshop
 - learnyoubash <- *CURRENT*
 - currying in javascript <-
