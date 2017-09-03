@@ -1,7 +1,6 @@
-# Nodeschool tutorial solutions.
+# NODESCHOOL TUTORIALS
 ---
 
-## Workshoppers list
 
 ### CORE
 
