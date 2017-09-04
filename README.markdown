@@ -3,8 +3,7 @@
 
 
 ### CORE
-
-_*Fix the bugs in order to complete!*_
+---
 - javascripting x
 - git-it x
 - scope chains & closures x
