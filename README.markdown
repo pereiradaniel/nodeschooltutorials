@@ -6,9 +6,6 @@
 1. Fix repositories with bugs (*stream-adventure, functional javascript*).
 2. Electives:  TBA
 
-## October 2017
-
-
 
 ### CORE
 - javascripting x
