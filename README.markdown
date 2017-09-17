@@ -37,7 +37,7 @@
 - regexp adventure <-
 - learn sass <-
 - pattern lab workshop
-- learnyoubash <- *CURRENT*
+- learnyoubash <-
 - currying in javascript <-
 - bacon love
 - innersourceadventure
