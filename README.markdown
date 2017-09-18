@@ -1,12 +1,6 @@
 # NODESCHOOL TUTORIALS
 ---
 
-## September 2017
-
-1. Fix repositories with bugs (*stream-adventure, functional javascript*).
-2. Electives:  TBA
-
-
 ### CORE
 - javascripting x
 - git-it x
