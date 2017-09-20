@@ -10,7 +10,6 @@
 - how to npm x
 - *stream-adventure* o
 - how to markdown x
----
 
 
 ### ELECTIVES
@@ -50,7 +49,6 @@
 - perfschool
 - web audio school <-
 - torrential
----
 
 
 [@pereirawebdev](https://twitter.com/pereirawebdev)
