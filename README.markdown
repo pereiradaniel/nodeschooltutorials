@@ -30,7 +30,7 @@
 - regexp adventure <-
 - learn sass <-
 - pattern lab workshop
-- *learnyoubash* <-
+- learnyoubash x
 - currying in javascript <-
 - bacon love
 - innersourceadventure
