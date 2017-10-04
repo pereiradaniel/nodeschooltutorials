@@ -26,7 +26,7 @@
 - ESNext generation
 - test anything
 - tower of babel <-
-- learnyoumongo <-
+- *learnyoumongo* <- CURRENT
 - regexp adventure <-
 - learn sass <-
 - pattern lab workshop
