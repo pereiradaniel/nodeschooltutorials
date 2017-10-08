@@ -27,6 +27,7 @@
 - test anything
 - tower of babel <-
 - *learnyoumongo* <- CURRENT
+  _*Creates large, empty database files!*_
 - regexp adventure <-
 - learn sass <-
 - pattern lab workshop
