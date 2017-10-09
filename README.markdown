@@ -2,6 +2,7 @@
 ---
 
 ### CORE
+```
 - javascripting x
 - git-it x
 - scope chains & closures x
@@ -10,9 +11,10 @@
 - how to npm x
 - *stream-adventure* o
 - how to markdown x
-
+```
 
 ### ELECTIVES
+```
 - *functional javascript* o
 - level me up scotty
 - expressworks
@@ -26,8 +28,10 @@
 - ESNext generation
 - test anything
 - tower of babel <-
+
 - *learnyoumongo* <- CURRENT
   _*Creates large, empty database files!*_
+
 - regexp adventure <-
 - learn sass <-
 - pattern lab workshop
@@ -50,7 +54,7 @@
 - perfschool
 - web audio school <-
 - torrential
-
+```
 
 [@pereirawebdev](https://twitter.com/pereirawebdev)
 
