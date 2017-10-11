@@ -31,7 +31,7 @@
   - test anything
   - tower of babel <-
 
-  - *learnyoumongo* <- CURRENT
+  - *learnyoumongo*
     _*Creates large, empty database files!*_
 
   - regexp adventure <-
