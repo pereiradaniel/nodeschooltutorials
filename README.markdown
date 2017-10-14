@@ -10,7 +10,10 @@
   - elementary electron x
   - learnyounode x
   - how to npm x
+
   - *stream-adventure* o
+    _*Bugs?
+
   - how to markdown x
 ```
 
@@ -18,6 +21,8 @@
 
 ```
   - *functional javascript* o
+    _*Bugs?
+
   - level me up scotty
   - expressworks
   - make me hapi
@@ -52,7 +57,10 @@
   - learnyoucouchdb
   - learnuv
   - learn generators
+
   - *learnyoureact* o
+    _*Bugs?*_
+
   - perfschool
   - web audio school <-
   - torrential
