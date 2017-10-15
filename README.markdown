@@ -15,11 +15,9 @@
     _*Bugs?
 
   - how to markdown x
-```
 
 ### ELECTIVES
 
-```
   - *functional javascript* o
     _*Bugs?
 
