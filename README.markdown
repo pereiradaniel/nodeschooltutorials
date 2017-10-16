@@ -37,7 +37,8 @@
   - *learnyoumongo*
     _*Creates large, empty database files!*_
 
-  - regexp adventure <-
+  - _*regexp adventure*_ <-
+
   - learn sass <-
   - pattern lab workshop
   - learnyoubash x
