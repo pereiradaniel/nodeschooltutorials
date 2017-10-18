@@ -3,7 +3,6 @@
 
 ### CORE
 
-```
   - javascripting x
   - git-it x
   - scope chains & closures x
@@ -11,15 +10,16 @@
   - learnyounode x
   - how to npm x
 
-  - *stream-adventure* o
-    _*Bugs?
+  - _*stream-adventure*_
+    - *bugs*
 
   - how to markdown x
+---
 
 ### ELECTIVES
 
   - *functional javascript* o
-    _*Bugs?
+    - *bugs*
 
   - level me up scotty
   - expressworks
@@ -58,12 +58,11 @@
   - learn generators
 
   - *learnyoureact* o
-    _*Bugs?*_
+    -*bugs*
 
   - perfschool
   - web audio school <-
   - torrential
-```
 
 [@pereirawebdev](https://twitter.com/pereirawebdev)
 
