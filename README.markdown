@@ -10,7 +10,7 @@
   - learnyounode x
   - how to npm x
 
-  - _*stream-adventure*_
+  - _*stream-adventure*_ o
     - *bugs*
 
   - how to markdown x
