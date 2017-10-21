@@ -37,8 +37,7 @@
   - *learnyoumongo*
     _*Creates large, empty database files!*_
 
-  - _*regexp adventure*_ <- CURRENT
-
+  - _*regexp adventure*_ <-
   - learn sass <-
   - pattern lab workshop
   - learnyoubash x
@@ -47,7 +46,7 @@
   - innersourceadventure
   - shader school
   - bytewiser
-  - bug clinic <-
+  - bug clinic <- CURRENT
   - browserify adventure
   - intro to webgl
   - count to 6
