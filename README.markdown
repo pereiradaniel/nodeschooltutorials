@@ -34,7 +34,7 @@
   - test anything
   - tower of babel <-
 
-  - *learnyoumongo*
+  - *learnyoumongo* o
     _*Creates large, empty database files!*_
 
   - _*regexp adventure*_ <-
