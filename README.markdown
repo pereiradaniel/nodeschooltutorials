@@ -1,7 +1,7 @@
 # NODESCHOOL TUTORIALS
 ---
 
-### CORE
+## CORE
 
   - javascripting x
   - git-it x
@@ -16,7 +16,7 @@
   - how to markdown x
 ---
 
-### ELECTIVES
+## ELECTIVES
 
   - *functional javascript* o
     - *bugs*
