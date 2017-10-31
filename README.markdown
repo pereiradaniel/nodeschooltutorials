@@ -1,6 +1,8 @@
 # NODESCHOOL TUTORIALS
 ---
 
+Solutions to Nodeschool tutorials.
+
 ## CORE
 
   - javascripting x
