@@ -5,24 +5,23 @@ Solutions to Nodeschool tutorials.
 
 ## CORE
 
+### COMPLETED
   - javascripting x
   - git-it x
   - scope chains & closures x
   - elementary electron x
   - learnyounode x
   - how to npm x
+  - how to markdown x
 
+### INCOMPLETE
   - _*stream-adventure*_ o
     - *bugs*
 
-  - how to markdown x
+---
 
 
 ## ELECTIVES
-
-  - *functional javascript* o
-    - *bugs*
-
   - level me up scotty
   - expressworks
   - make me hapi
@@ -35,11 +34,6 @@ Solutions to Nodeschool tutorials.
   - ESNext generation
   - test anything
   - tower of babel <-
-
-  - *learnyoumongo* o
-    _*Creates large, empty database files!*_
-
-  - _*regexp adventure*_ <-
   - learn sass <-
   - pattern lab workshop
   - learnyoubash x
@@ -57,13 +51,23 @@ Solutions to Nodeschool tutorials.
   - learnyoucouchdb
   - learnuv
   - learn generators
-
-  - *learnyoureact* o
-    -*bugs*
-
   - perfschool
   - web audio school <-
   - torrential
+
+### INCOMPLETE
+  - *learnyoumongo* o
+    _*Creates large, empty database files!*_
+  - *learnyoureact* o
+    -*bugs*
+  - *functional javascript* o
+    - *bugs*
+
+### CURRENT
+  - _*regexp adventure*_ <-
+
+---
+
 
 [@pereirawebdev](https://twitter.com/pereirawebdev)
 
