@@ -1,7 +1,7 @@
 # NODESCHOOL TUTORIALS
 ---
 
-Solutions to Nodeschool tutorials.
+Solutions to Nodeschool tutorials.  View Readme files in each repository for furth info.
 
 ## CORE
 
@@ -65,6 +65,7 @@ Solutions to Nodeschool tutorials.
 
 ### CURRENT
   - _*regexp adventure*_ <-
+
 
 ---
 
