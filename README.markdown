@@ -1,7 +1,7 @@
 # NODESCHOOL TUTORIALS
 ---
 
-Solutions to Nodeschool tutorials.  View Readme files in each repository for furth info.
+Solutions to Nodeschool tutorials.  View Readme files in each repository for furth info.  Follow me on social media!
 
 ## CORE
 
@@ -73,6 +73,7 @@ Solutions to Nodeschool tutorials.  View Readme files in each repository for fur
 [@pereirawebdev](https://twitter.com/pereirawebdev)
 
 _*Daniel Pereira 2017*_
+
 
 ```
 Please visit my other repos for more tutorial solutions.
