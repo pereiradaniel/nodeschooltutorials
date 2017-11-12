@@ -1,9 +1,8 @@
 # NODESCHOOL TUTORIALS
 ---
 
-```
 Solutions to Nodeschool tutorials.  View Readme files in each repository for furth info.  Follow me on social media!
-```
+
 
 ## CORE
 
