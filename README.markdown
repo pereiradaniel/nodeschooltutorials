@@ -4,6 +4,11 @@
 Solutions to Nodeschool tutorials.  View Readme files in each repository for furth info.  Follow me on social media!
 
 
+```
+Some tutorials are incomplete due to bugs!  See the nodeschool official pages and GitRepos to check up on those issues.
+```
+
+
 ## CORE
 
 ### COMPLETED
