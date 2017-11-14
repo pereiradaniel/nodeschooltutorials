@@ -82,5 +82,5 @@ _*Daniel Pereira 2017*_
 
 
 ```
-Please visit my other repos for more tutorial solutions.
+Please visit my other repos and blog posts for more tutorial solutions.
 ```
