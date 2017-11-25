@@ -24,7 +24,9 @@ Some tutorials are incomplete due to bugs!  See the nodeschool official pages an
 
 ### INCOMPLETE
   - _*stream-adventure*_ o
-    - *bugs*
+  ```
+  bugs
+  ```
 
 ---
 
@@ -65,11 +67,18 @@ Some tutorials are incomplete due to bugs!  See the nodeschool official pages an
 
 ### INCOMPLETE
   - *learnyoumongo* o
-    _*Creates large, empty database files!*_
+    ```
+    Creates large, empty database files!
+    ```
+
   - *learnyoureact* o
-    -*bugs*
+    ```
+    bugs
+    ```
   - *functional javascript* o
-    - *bugs*
+    ```
+    bugs
+    ```
 
 ### CURRENT
   - _*regexp adventure*_ <-
