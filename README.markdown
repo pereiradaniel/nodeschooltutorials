@@ -90,6 +90,4 @@ Some tutorials are incomplete due to bugs!  See the nodeschool official pages an
 _*Daniel Pereira 2017*_
 
 
-```
 Please visit my other repos and blog posts for more tutorial solutions.
-```
